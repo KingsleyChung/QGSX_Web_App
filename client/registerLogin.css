@@ -1,0 +1,19 @@
+#rlchoose li{
+    width:150px;
+}
+
+#rlchoose li a{
+    color: RGB(150,150,150);
+    width:150px;
+}
+
+#rlchoose .active a{
+    color: RGB(96,177,131);
+    width:150px;
+}
+
+form {
+    width:260px;
+    margin-top:20px;
+    margin-left:10px;
+}
